@@ -1,4 +1,4 @@
-new change.x
+new change.x, branch changes on this line
 This is file 1.
 this is new line of text from
 stuff merge..
