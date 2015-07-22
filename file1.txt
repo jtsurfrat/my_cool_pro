@@ -1,4 +1,8 @@
+yess git <<<<<<< HEAD
 new change.x, this is master
+=======
+new change.x, branch changes on this line
+>>>>>>> stuff
 This is file 1.
 this is new line of text from
 stuff merge..
