@@ -1,4 +1,4 @@
-new change.x
+new change.x, this is master
 This is file 1.
 this is new line of text from
 stuff merge..
