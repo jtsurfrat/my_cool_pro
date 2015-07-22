@@ -2,3 +2,4 @@ new change.x
 This is file 1.
 this is new line of text from
 stuff merge..
+another merge..
