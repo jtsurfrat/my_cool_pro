@@ -1,2 +1,9 @@
 This is a pig file. Pigs
 are cool from vim -
+this is vim. Vim is an okay
+text editor. Its a little weird to
+us at first. There is a lot of stuff
+to learn. But, people say it's more
+powerful then nano. I am not sure
+vim seem cool, but does it need all those
+commads really??
