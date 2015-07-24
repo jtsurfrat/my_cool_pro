@@ -6,4 +6,8 @@ new change.x, branch changes on this line
 This is file 1.
 this is new line of text from
 stuff merge..
-another merge..
+another merge..Intsert mode i -i
+type i to use insert mode. vim seems cool
+much cooler then nano. Nano is not for
+pros... very uncool. vim is way cooler.
+then nano.
