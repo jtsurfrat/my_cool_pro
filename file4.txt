@@ -1,2 +1,4 @@
 another line
-This is file 4.
+This is file 4.This is vim
+I am writing in vim. Vim is cool.
+Why do I like writing in vim.
