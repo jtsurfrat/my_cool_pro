@@ -10,4 +10,5 @@ another merge..Intsert mode i -i
 type i to use insert mode. vim seems cool
 much cooler then nano. Nano is not for
 pros... very uncool. vim is way cooler.
-then nano.
+then nano. I love bacon an chocolate, but I
+am not sure if those two go to together will..
