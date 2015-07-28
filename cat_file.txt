@@ -1,7 +1,16 @@
+
 This is just a cat file. Master has approved this...Another
 long very long file. This is like watching paint dry and watching
 the grass grow. It is fun sometimes to type very long sentences I
 went to the store and bought some eggs, bacon, saugge, milk, cheese
 and other stuff.
 us at first. There is a lot of stuff
+=======approved by master-----
+This is just a cat file. Master has approved this...
+Just another cat file. changes from vim. Who
+likes dogs better then cats? Who likes cats
+better then dogs. I am just writing this because
+I don't know what else to say. And I
+really enjoy eating bacon!!!
+>>>>>>> cat
 
